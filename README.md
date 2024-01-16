@@ -7,7 +7,7 @@ In my first tutorial I learnt project can be started in two ways
    -> then ```js npm run build ```
    -> delete the not needed files
 
-3. We'll use builder vite:
+3. We'll use bundler vite:
    -> ```js npm create vite@latest ```
    -> write project name and select the rest
    -> then  ```js npm run dev ```
